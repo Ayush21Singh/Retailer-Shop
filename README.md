@@ -13,6 +13,7 @@ and purchase/sell analytics with customizable time periods. Built with Entity Fr
 - [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
 - [MySQL Server](https://dev.mysql.com/downloads/mysql/)
 - [Git](https://git-scm.com/)
+- [Retailer Shop UI](https://github.com/Ayush21Singh/Ashish-General-Store-UI)
 
 ## Setup Instructions
 1. **Clone the Repository**:
